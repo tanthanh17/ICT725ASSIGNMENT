@@ -1,6 +1,6 @@
 # project_order_food
 
-Link Demo: https://www.youtube.com/watch?v=ofxRHq_7uRs
+
 + Using project architecture
 + Using form validate
 + Firebase: auth, firestore, storage
