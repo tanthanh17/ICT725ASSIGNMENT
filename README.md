@@ -1,12 +1,10 @@
-# project_order_food
+# Resraurant management 
+create order 
+add food 
+check order 
 
 
-+ Using project architecture
-+ Using form validate
-+ Firebase: auth, firestore, storage
-+ Auto upload file
-+ State: Provider
-+ shared preference to save local
+
 
 ## Getting Started
 
